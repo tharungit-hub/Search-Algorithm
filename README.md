@@ -98,7 +98,7 @@ else:
     print(arr)
     print("Element found at index: ", result)
 ```
-## Sample Input and Output
+## Output
 ![sec](exp8.png)
 
 
